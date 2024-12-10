@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourcePackUpdater", "ResourcePackUpdater\ResourcePackUpdater.csproj", "{07CFF0E7-5B52-4B95-A175-D149DD325373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourcePackUpdaterLibrary", "ResourcePackUpdaterLibrary\ResourcePackUpdaterLibrary.csproj", "{0DE84D0F-4576-4934-A29D-2D03506F230B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07CFF0E7-5B52-4B95-A175-D149DD325373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CFF0E7-5B52-4B95-A175-D149DD325373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CFF0E7-5B52-4B95-A175-D149DD325373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CFF0E7-5B52-4B95-A175-D149DD325373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE84D0F-4576-4934-A29D-2D03506F230B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE84D0F-4576-4934-A29D-2D03506F230B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE84D0F-4576-4934-A29D-2D03506F230B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE84D0F-4576-4934-A29D-2D03506F230B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
